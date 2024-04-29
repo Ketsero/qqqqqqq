@@ -1,4 +1,4 @@
-<html>
+<html
 <body style="background-color:lightgray">
 <main>
 <h1><b>Аккерманська фортеця</b></h1>
